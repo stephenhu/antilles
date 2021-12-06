@@ -1,6 +1,6 @@
 # antilles
-framework for creating decentralized and detached applications
+framework for creating decentralized and detached social applications
 
 ## use case
-i want to create a private sharing network for only my immediate family, i don't want to send any of my data over public
-networks, i only want to send data from device to device.  i want a different one for my friends and another one for my colleagues. 
+i want to share photos with only my immediate family, there should a different one for friends and colleagues.
+data should not be stored in a centralized location.
